@@ -1,0 +1,115 @@
+.navbar .navbar-collapse {
+  justify-content: end;
+  color: white;
+}
+
+.blue {
+  background: #0A2640;
+}
+
+.row.blue {
+  padding-bottom: 100px;
+}
+
+.header-text span {
+  display: block;
+}
+.header-text .title {
+  font-size: 50px;
+}
+.header-text p {
+  font-size: 15px;
+  opacity: 0.8;
+}
+
+.text-under .big {
+  font-size: 48px;
+}
+.text-under span {
+  display: block;
+}
+.text-under p {
+  font-size: 15px;
+  color: grey;
+}
+
+.stats .number span {
+  display: block;
+  color: #4FE9A4;
+  font-size: 24px;
+}
+.stats .number .firstone {
+  font-size: 96px;
+}
+
+.another-section {
+  padding-top: 150px;
+}
+.another-section span {
+  display: block;
+}
+.another-section .title {
+  padding-top: 8px;
+  font-size: 48px;
+}
+.another-section p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #F1F1F1;
+}
+
+.custom-card span {
+  font-size: 28px;
+  display: block;
+  padding-bottom: 25px;
+}
+.custom-card p {
+  font-size: 18px;
+  line-height: 20px;
+  color: #F1F1F1;
+}
+
+.last-card {
+  padding: 45px;
+  border-radius: 20px;
+}
+.last-card span {
+  color: white;
+  font-size: 35px;
+}
+.last-card input {
+  border-radius: 30px;
+  margin-right: 20px;
+  padding: 10px 50px;
+}
+.last-card button {
+  border-radius: 30px;
+  color: black;
+  background: #65E4A3;
+  padding: 10px 50px;
+}
+
+.footer {
+  padding: 100px;
+}
+.footer .footer-part-1 span {
+  font-size: 30px;
+}
+.footer .text span {
+  padding-bottom: 12px;
+}
+
+.login {
+  padding: 8px 35px;
+  border-radius: 20px;
+  color: #0A2640;
+  font-weight: 600;
+}
+
+#rights {
+  display: block;
+  padding-top: 5px;
+  font-size: 10px;
+}/*# sourceMappingURL=style.css.map */
